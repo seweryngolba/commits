@@ -1,0 +1,29 @@
+.one {
+  background: blue;
+  height: 100px;
+  width: 200px;
+  text-align: center;
+  font-size: 24px;
+  color: white;
+  line-height: 100px;
+}
+
+.two {
+  background: green;
+  height: 200px;
+  width: 300px;
+  text-align: center;
+  color: white;
+  font-size: 24px;
+  line-height: 200px;
+}
+
+.three {
+  background: black;
+  height: 300px;
+  width: 400px;
+  text-align: center;
+  color: white;
+  font-size: 24px;
+  line-height: 300px;
+}
